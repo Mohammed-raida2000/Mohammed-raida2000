@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mohammed Abu Raida
 
-### 💻 QA Tester | Manual Tester | API Tester
+### 💻 QA Tester | Manual&Automation Tester | API Tester
 
-**Software Quality Assurance Engineer with solid knowledge in manual testing, API, and automation testing.**
+**Software QAE with solid knowledge in manual testing, API, and automation testing.**
 
 **👀 Interested in: All aspects of the quality field including automation testing & API testing.**
 **🌱 Currently learning: Essentials of Moblie Testing.**
